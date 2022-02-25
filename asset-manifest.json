@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/reactblois/static/css/main.0c15bc27.css",
+    "main.js": "/reactblois/static/js/main.cad67c34.js",
+    "static/js/787.e13acc2a.chunk.js": "/reactblois/static/js/787.e13acc2a.chunk.js",
+    "static/media/logo.svg": "/reactblois/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/reactblois/index.html",
+    "main.0c15bc27.css.map": "/reactblois/static/css/main.0c15bc27.css.map",
+    "main.cad67c34.js.map": "/reactblois/static/js/main.cad67c34.js.map",
+    "787.e13acc2a.chunk.js.map": "/reactblois/static/js/787.e13acc2a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c15bc27.css",
+    "static/js/main.cad67c34.js"
+  ]
+}
